@@ -1,0 +1,72 @@
+.all-style{
+    width: 400px;
+    height: 900px;
+    margin-right: 10px; 
+    margin-bottom: 150px;
+     background-color:white;
+
+}
+
+.button-cheakmark{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(235, 109, 63);
+    border-radius: 30px;
+    border-style: solid;
+    border: none;
+    margin-top: 150px;
+    margin-left: 25px;
+    margin-bottom: 35px;
+    
+ 
+    
+ }
+ .icon-cheakmark{
+     font-size: 30px;
+     font-weight: bold;
+     color: white;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-left: -1472px;
+    margin-right: 6px;
+ 
+ }
+ .text-title{
+    color: rgba(0, 0, 0, 0.795); 
+    font-size: 35px;
+    margin-bottom: -1px;
+ }
+ .text-stats{
+     color: rgba(0, 0, 0, 0.795);  
+     font-size: 35px;
+     margin-bottom: 25px;
+    
+ }
+ .title-1{
+   margin-bottom: 7px;
+    color:rgba(0, 0, 0, 0.74);
+ }
+ .title-2{
+    margin-bottom: 7px;
+ }
+ .title-3{
+    color:rgba(0, 0, 0, 0.74);
+    margin-bottom: 7px;
+ }
+ .title-4{
+    color:rgba(0, 0, 0, 0.74);
+    
+ }
+ .last-button{
+    border-radius: 10px;
+    width: 320px;
+    border-style: solid;
+    border: none;
+    height: 60px;
+    margin-left: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(26, 42, 88);
+    margin-top: 350px;
+ }
